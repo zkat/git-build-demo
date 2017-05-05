@@ -1,0 +1,17 @@
+{
+  "name": "git-build-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prepare": "echo 'hi' > some-file.min.js"
+  },
+  "keywords": [],
+  "author": "Kat Marchán <kzm@sykosomatic.org>",
+  "license": "CC0-1.0",
+  "dependencies": {},
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "webpack": "^2.5.0"
+  }
+}
